@@ -3,8 +3,7 @@
 
 <div align=center>
 	
-[![Instagram Badge](https://www.instagram.com/yeonheeee__/)	
- 
+[![Instagram Badge](https://www.instagram.com/yeonheeee__/)
 
 </div>
 
