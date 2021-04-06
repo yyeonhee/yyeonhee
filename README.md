@@ -1,9 +1,6 @@
 # This is Yeonhee's GitHub Page 👋
 
 
-<div align=center>
-	
-[![Instagram Badge](https://www.instagram.com/yeonheeee__/)
 
 </div>
 
