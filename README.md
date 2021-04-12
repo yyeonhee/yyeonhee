@@ -13,7 +13,7 @@
 <div/>
 
 [![Yeonhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyeonhee)](https://github.com/yyeonhee/github-readme-stats)
-![Yeonhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyeonhee&show_icons=true&hide_border=True&&theme=radical)
+
 
 Tech Stack
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/>
