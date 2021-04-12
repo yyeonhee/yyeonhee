@@ -1,5 +1,7 @@
 # This is Yeonhee's GitHub Page 👋
 
+</div>
+
 😄 This is Yeonhee's GitHub Page
 
 🦁 Likelion 9th Member at SCH 🦁
@@ -7,10 +9,10 @@
 📚 Programming I Have Learned Python, C, JAVA, HTML/CSS ...
 
 😉 I'm learning now HTML/CSS, Django ...
+<div/>
 
 
-
-# 💻**Tech Stack**💻
+### 💻**Tech Stack**💻
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
