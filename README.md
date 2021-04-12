@@ -4,11 +4,14 @@
 
 😄 This is Yeonhee's GitHub Page
 
+😀 I major in Computer Science Engineering 
+
 🦁 Likelion 9th Member at SCH 🦁
 
 📚 Programming I Have Learned Python, C, JAVA, HTML/CSS ...
 
 😉 I'm learning now HTML/CSS, Django ...
+
 
 <div/>
 
