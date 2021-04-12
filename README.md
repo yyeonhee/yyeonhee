@@ -11,7 +11,7 @@
 💻 Programming I Have Learned Python, C, JAVA, HTML/CSS ...
 
 <div/>
-[![Yeonhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyeonhee)](https://github.com/anuraghazra/github-readme-stats)
+![Yeonhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyeonhee&show_icons=true&theme=radical)
 
 Tech Stack
 <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=Python&logoColor=white"/>
